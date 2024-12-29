@@ -14,7 +14,7 @@ https://medium.com/wix-engineering/react-native-at-wix-the-architecture-ii-deep-
 * Make sure you have all [requirements](https://facebook.github.io/react-native/docs/getting-started.html#requirements) for running React Native projects
 * Make sure you're using a Mac and have Xcode installed
 * Make sure your brew is upgraded (`brew upgrade`)
-* Make sure you have node 10+ (`node -v`), use `nvm` to manage multiple nodes (`nvm ls`, `nvm install 10`)
+* Make sure you have node 18+ (`node -v`), use `nvm` to manage multiple nodes (`nvm ls`, `nvm install 18`)
 * From within your project folder run `npm install`
 
 ## Running The Project
@@ -28,3 +28,4 @@ https://medium.com/wix-engineering/react-native-at-wix-the-architecture-ii-deep-
 * `npm run start-empty-engine`: runs the Engine on all opened Android emulator and iOS simulators 
 
 ### Douglas Morais
+* Prove of Concept project
