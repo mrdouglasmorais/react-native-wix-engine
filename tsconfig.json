@@ -1,0 +1,11 @@
+{
+  "extends": "@react-native/typescript-config/tsconfig.json",
+  "compilerOptions": {
+    "types": ["node"]
+  },
+  "include": [
+    "demo-modules/**/*",
+    "internal_folder/react-native-wix-engine/src/**/*"
+  ],
+  "exclude": ["node_modules"]
+}

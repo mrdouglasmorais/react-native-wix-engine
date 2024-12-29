@@ -1,0 +1,9 @@
+{
+  "name": "demo-module-b",
+  "version": "1.0.0",
+  "description": "",
+  "main": "module.js",
+  "engineConfig": {
+    "modules": ["demo-module-b"]
+  }
+}
