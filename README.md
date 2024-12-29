@@ -4,6 +4,7 @@ This project is a partially implementation of Wix Multi-Module architecture for 
 https://medium.com/@mr.douglasmorais23/explorando-o-desenvolvimento-de-aplicativos-com-react-native-f24ad1e4332c
 
 * Engine Details
+  
 https://medium.com/wix-engineering/react-native-at-wix-the-architecture-ii-deep-dive-9cfcb3c2822c
 
 
